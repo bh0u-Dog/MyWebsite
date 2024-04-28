@@ -1,0 +1,36 @@
+video{
+    width: 80%;
+    height: 80%;
+}
+
+body{
+    font-family: 'QuickSand';
+}
+
+img{
+    width: 80%;
+    height: 80%;
+    border-radius: 20px;
+}
+
+::selection{
+    background-color: rgb(130, 130, 130);
+}
+
+details{
+    cursor: pointer;
+}
+
+#ui-color{
+    position: fixed;
+    padding: 10px 10px;
+    font-size: 15px;
+    right: 20px;
+    border-radius: 10px;
+    bottom: 20px;
+}
+
+svg{
+    width: 20px;
+    height: 20px;
+}
